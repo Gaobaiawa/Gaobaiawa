@@ -18,6 +18,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=嗨+这里+👋,+我+是+Gaobaiawa;我+喜欢+纳西妲❤;萝莉+小小的+好可爱;嘿，真没想到你看完了;🐔;)](https://git.io/typing-svg)
 
+<!--   贡献变贪吃蛇，改自己贡献太难了我不想搞了 -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -25,10 +26,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Gaobaiawa/Gaobaiawa/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Gaobaiawa/Gaobaiawa/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
